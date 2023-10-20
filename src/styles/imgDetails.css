@@ -1,0 +1,40 @@
+.imgDetails{
+    color: black;
+    padding: 1.5rem;
+}
+  
+*{
+    padding: 0;
+    margin: 0;
+}
+  
+.CardView{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+  
+.data{
+    margin-left: 1rem;
+}
+  
+.data h2{
+    font-size: 2rem;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    font-size: 1.2rem;
+}
+
+#remixicon{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.d_tails{
+    margin: 0.3rem;
+}
